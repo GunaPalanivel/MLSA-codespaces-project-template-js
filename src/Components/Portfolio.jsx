@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/next.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "Next.js logo";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Bankist",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "The Bankist App is a simple banking application implemented in JavaScript. It allows users to perform various banking operations, such as logging in, transferring money, requesting loans, and more.",
+    url: "https://github.com/GunaPalanivel/Bankist.git",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Dice Duel",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Dice Duel is a simple browser-based dice game where two players take turns rolling a six-sided die. The goal is to be the first player to reach a predefined score, usually 100.",
+    url: "https://github.com/GunaPalanivel/Dice-Duel.git",
   },
   {
-    title: "My Resume Site",
+    title: "Fin Flow - Financial Flow",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Fin Flow is a financial SaaS platform built with Next.js, providing users with seamless connectivity to multiple bank accounts, real-time transaction monitoring, fund transfers, and comprehensive financial management capabilities.",
+    url: "https://github.com/GunaPalanivel/FinFlow-FinancialFlow.git",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Modern JavaScript Fundamentals",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "JavaScript is one of the most popular programming languages, and it has become increasingly powerful since the introduction of ES6 in 2014.",
+    url: "https://github.com/GunaPalanivel/Modern-JavaScript-Fundamentals.git",
   },
 ];
 
